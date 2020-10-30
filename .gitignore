@@ -6,6 +6,14 @@ __pycache__/
 # C extensions
 *.so
 
+
+# OpenWeatherMap API Key
+weather_api_key = "e48190d89d62c2cdfcb0c9e10bc65ed2"
+
+# Google API Key
+g_key = "AIzaSyDnRBKJ5iLU9zNsvWpNLfSyYmM0IvmGRrM"
+
+
 # Distribution / packaging
 .Python
 build/
